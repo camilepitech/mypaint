@@ -1,0 +1,28 @@
+MUST
+• Window that you can minimize, enlarge and close
+• Provide at least the pencil and eraser tools
+• Buttons must have different states (at least 3 : HOVER, PRESSED and CLICKED for example)
+
+• A menu bar, with at least the file, edit and help features. Each item must be a drop-down menu
+    • In the file item, the options new file, open file, save file.
+    • In the edition item, the selection of the pencil and eraser tools
+    • In the help item, the options about (which must display your login), and help (which explains how
+to use the software)
+
+• A new side-menu (tool bar) poping up upon tool selection which allows you modify it :
+    • For pencil : change the line thickness
+    • For eraser : change the shape (circle or square) and its size
+• Be able to make a drawing with the tools using the mouse
+• Save the image (.jpg format by default)
+
+
+SHOULD
+• User must can enter file name in terminal or in a new window poping up when chosing an option in
+file menu drop down
+• Layer management
+• A side menu with the color palette for the pencil tool
+• Save the image in other formats (.bmp and .png)
+• Add basic shapes (circle, rectangle)
+• Possibility to zoom on the image
+• Add the selection tool (with a rectangle shape)
+• Add the cut/copy/paste options in the edition menu, usable on a part of the image previously selected with the selection tool, AND the paste to another place of the image, or on another layer.
